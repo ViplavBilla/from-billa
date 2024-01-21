@@ -6,4 +6,13 @@ It has been going viral in all social platforms. It is composed by S.S Thaman. H
 
 [photo](pic.jpg)
 
+****
+## A TABLE OF LISTS
 
+ This table is about a set of things i would recommend you to try.
+
+ | NAME | REASON | CREATOR |
+ | ----- | -----   | -----    |
+ | JAMAL KUDU | IT IS ENTERTAINING | HARSHAVARHAN |
+ | ARJAN VAILY | IT HAS GOOD MUSIC | BHUPINDER |
+ | EVAREVARO | IT HAS GOOD MUSIC AND LYRICS | VISHAL MISHRA |
