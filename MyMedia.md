@@ -27,3 +27,19 @@ It has been going viral in all social platforms. It is composed by S.S Thaman. H
 >"PEOPLE WHO CONTINUE TO PUT THEIR LIVES ON THE LINE TO DEFEND THEIR FAITH BECOME HEROS AND CONTINUE TO EXIST ON IN LEGEND." BY *NARUTO*
 
 >"THOSE WHO FORGIVE THEMSELVES, AND ARE ABLE TO ACCEPT THEIR TRUE NATURE... THEY ARE THE STRONG ONES!". BY *ITACHI UCHIHA*
+
+****
+## CODE FENCING
+
+MERGING PYTHON DICTIONARIES INTO ONE, OR AS MANY AS YOU HAVE.
+'''
+def merge_dicts(*dicts):
+  super_dict = {}
+  for dict in dicts:
+      for k, v in dict.items():
+          super_dict[k] = v
+
+ return super_dict
+ '''
+ [PROGRAM SOURCE](https://code.pieces.app/collections/python)
+ 
