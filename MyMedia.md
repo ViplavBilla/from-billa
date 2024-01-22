@@ -32,13 +32,14 @@ It has been going viral in all social platforms. It is composed by S.S Thaman. H
 ## CODE FENCING
 
 MERGING PYTHON DICTIONARIES INTO ONE, OR AS MANY AS YOU HAVE.
-'''
+
+```
     def merge_dicts(*dicts):
       super_dict = {}
       for dict in dicts:
            for k, v in dict.items():
                super_dict[k] = v
      return super_dict
- '''
+ ```
  [PROGRAM SOURCE](https://code.pieces.app/collections/python)
 
